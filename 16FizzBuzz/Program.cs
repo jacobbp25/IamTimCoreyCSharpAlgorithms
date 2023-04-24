@@ -28,8 +28,6 @@ var rules = new List<DivisibleRuleInfo>(){
 
 ReusableRefactor(rules, -3, 105).ForEach(x => System.Console.WriteLine(x));
 
-return 0;
-
 static void MyOriginalSolution()
 {
     var lowerBound = 1;
