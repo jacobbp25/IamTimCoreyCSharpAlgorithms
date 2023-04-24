@@ -1,0 +1,15 @@
+C:\projects\CSharpAlgos\5TruckRental\bin\Debug\net7.0\5TruckRental.exe
+C:\projects\CSharpAlgos\5TruckRental\bin\Debug\net7.0\5TruckRental.deps.json
+C:\projects\CSharpAlgos\5TruckRental\bin\Debug\net7.0\5TruckRental.runtimeconfig.json
+C:\projects\CSharpAlgos\5TruckRental\bin\Debug\net7.0\5TruckRental.dll
+C:\projects\CSharpAlgos\5TruckRental\bin\Debug\net7.0\5TruckRental.pdb
+C:\projects\CSharpAlgos\5TruckRental\obj\Debug\net7.0\5TruckRental.csproj.AssemblyReference.cache
+C:\projects\CSharpAlgos\5TruckRental\obj\Debug\net7.0\5TruckRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharpAlgos\5TruckRental\obj\Debug\net7.0\5TruckRental.AssemblyInfoInputs.cache
+C:\projects\CSharpAlgos\5TruckRental\obj\Debug\net7.0\5TruckRental.AssemblyInfo.cs
+C:\projects\CSharpAlgos\5TruckRental\obj\Debug\net7.0\5TruckRental.csproj.CoreCompileInputs.cache
+C:\projects\CSharpAlgos\5TruckRental\obj\Debug\net7.0\5TruckRental.dll
+C:\projects\CSharpAlgos\5TruckRental\obj\Debug\net7.0\refint\5TruckRental.dll
+C:\projects\CSharpAlgos\5TruckRental\obj\Debug\net7.0\5TruckRental.pdb
+C:\projects\CSharpAlgos\5TruckRental\obj\Debug\net7.0\5TruckRental.genruntimeconfig.cache
+C:\projects\CSharpAlgos\5TruckRental\obj\Debug\net7.0\ref\5TruckRental.dll

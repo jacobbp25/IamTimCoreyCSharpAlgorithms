@@ -1,0 +1,15 @@
+C:\projects\CSharpAlgos\16FizzBuzz\bin\Debug\net7.0\16FizzBuzz.exe
+C:\projects\CSharpAlgos\16FizzBuzz\bin\Debug\net7.0\16FizzBuzz.deps.json
+C:\projects\CSharpAlgos\16FizzBuzz\bin\Debug\net7.0\16FizzBuzz.runtimeconfig.json
+C:\projects\CSharpAlgos\16FizzBuzz\bin\Debug\net7.0\16FizzBuzz.dll
+C:\projects\CSharpAlgos\16FizzBuzz\bin\Debug\net7.0\16FizzBuzz.pdb
+C:\projects\CSharpAlgos\16FizzBuzz\obj\Debug\net7.0\16FizzBuzz.csproj.AssemblyReference.cache
+C:\projects\CSharpAlgos\16FizzBuzz\obj\Debug\net7.0\16FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharpAlgos\16FizzBuzz\obj\Debug\net7.0\16FizzBuzz.AssemblyInfoInputs.cache
+C:\projects\CSharpAlgos\16FizzBuzz\obj\Debug\net7.0\16FizzBuzz.AssemblyInfo.cs
+C:\projects\CSharpAlgos\16FizzBuzz\obj\Debug\net7.0\16FizzBuzz.csproj.CoreCompileInputs.cache
+C:\projects\CSharpAlgos\16FizzBuzz\obj\Debug\net7.0\16FizzBuzz.dll
+C:\projects\CSharpAlgos\16FizzBuzz\obj\Debug\net7.0\refint\16FizzBuzz.dll
+C:\projects\CSharpAlgos\16FizzBuzz\obj\Debug\net7.0\16FizzBuzz.pdb
+C:\projects\CSharpAlgos\16FizzBuzz\obj\Debug\net7.0\16FizzBuzz.genruntimeconfig.cache
+C:\projects\CSharpAlgos\16FizzBuzz\obj\Debug\net7.0\ref\16FizzBuzz.dll

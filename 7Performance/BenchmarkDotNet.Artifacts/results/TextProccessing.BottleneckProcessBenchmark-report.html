@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>TextProccessing.BottleneckProcessBenchmark-20230422-004412</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet=v0.12.1, OS=Windows 10.0.22621
+Intel Core i7-1065G7 CPU 1.30GHz, 1 CPU, 8 logical and 4 physical cores
+.NET Core SDK=7.0.102
+  [Host]     : .NET Core 7.0.3 (CoreCLR 7.0.323.6910, CoreFX 7.0.323.6910), X64 RyuJIT
+  DefaultJob : .NET Core 7.0.3 (CoreCLR 7.0.323.6910, CoreFX 7.0.323.6910), X64 RyuJIT
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>        Method</th><th>      Mean</th><th>    Error</th><th>   StdDev</th><th>    Median</th>
+</tr>
+</thead><tbody><tr><td>TestConcatenate500</td><td>81.402 &mu;s</td><td>2.4995 &mu;s</td><td>7.2117 &mu;s</td><td>79.146 &mu;s</td>
+</tr><tr><td>TestConcatenate5000</td><td>7,446.772 &mu;s</td><td>268.0897 &mu;s</td><td>786.2607 &mu;s</td><td>7,249.980 &mu;s</td>
+</tr><tr><td>TestConcatenate50000</td><td>1,857,217.990 &mu;s</td><td>122,951.6917 &mu;s</td><td>360,596.0281 &mu;s</td><td>1,781,463.900 &mu;s</td>
+</tr><tr><td>TestSb500</td><td>3.934 &mu;s</td><td>0.2020 &mu;s</td><td>0.5830 &mu;s</td><td>3.827 &mu;s</td>
+</tr><tr><td>TestSb5000</td><td>48.684 &mu;s</td><td>4.7554 &mu;s</td><td>14.0213 &mu;s</td><td>48.229 &mu;s</td>
+</tr><tr><td>TestSb50000</td><td>429.607 &mu;s</td><td>28.1608 &mu;s</td><td>82.5906 &mu;s</td><td>412.531 &mu;s</td>
+</tr></tbody></table>
+</body>
+</html>

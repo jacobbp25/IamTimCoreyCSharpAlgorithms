@@ -1,0 +1,15 @@
+C:\projects\CSharpAlgos\13Palindrome\bin\Debug\net7.0\13Palindrome.exe
+C:\projects\CSharpAlgos\13Palindrome\bin\Debug\net7.0\13Palindrome.deps.json
+C:\projects\CSharpAlgos\13Palindrome\bin\Debug\net7.0\13Palindrome.runtimeconfig.json
+C:\projects\CSharpAlgos\13Palindrome\bin\Debug\net7.0\13Palindrome.dll
+C:\projects\CSharpAlgos\13Palindrome\bin\Debug\net7.0\13Palindrome.pdb
+C:\projects\CSharpAlgos\13Palindrome\obj\Debug\net7.0\13Palindrome.csproj.AssemblyReference.cache
+C:\projects\CSharpAlgos\13Palindrome\obj\Debug\net7.0\13Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharpAlgos\13Palindrome\obj\Debug\net7.0\13Palindrome.AssemblyInfoInputs.cache
+C:\projects\CSharpAlgos\13Palindrome\obj\Debug\net7.0\13Palindrome.AssemblyInfo.cs
+C:\projects\CSharpAlgos\13Palindrome\obj\Debug\net7.0\13Palindrome.csproj.CoreCompileInputs.cache
+C:\projects\CSharpAlgos\13Palindrome\obj\Debug\net7.0\13Palindrome.dll
+C:\projects\CSharpAlgos\13Palindrome\obj\Debug\net7.0\refint\13Palindrome.dll
+C:\projects\CSharpAlgos\13Palindrome\obj\Debug\net7.0\13Palindrome.pdb
+C:\projects\CSharpAlgos\13Palindrome\obj\Debug\net7.0\13Palindrome.genruntimeconfig.cache
+C:\projects\CSharpAlgos\13Palindrome\obj\Debug\net7.0\ref\13Palindrome.dll

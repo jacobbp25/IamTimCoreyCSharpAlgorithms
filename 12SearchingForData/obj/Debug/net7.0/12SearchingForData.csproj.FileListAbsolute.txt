@@ -1,0 +1,15 @@
+C:\projects\CSharpAlgos\12SearchingForData\bin\Debug\net7.0\12SearchingForData.exe
+C:\projects\CSharpAlgos\12SearchingForData\bin\Debug\net7.0\12SearchingForData.deps.json
+C:\projects\CSharpAlgos\12SearchingForData\bin\Debug\net7.0\12SearchingForData.runtimeconfig.json
+C:\projects\CSharpAlgos\12SearchingForData\bin\Debug\net7.0\12SearchingForData.dll
+C:\projects\CSharpAlgos\12SearchingForData\bin\Debug\net7.0\12SearchingForData.pdb
+C:\projects\CSharpAlgos\12SearchingForData\obj\Debug\net7.0\12SearchingForData.csproj.AssemblyReference.cache
+C:\projects\CSharpAlgos\12SearchingForData\obj\Debug\net7.0\12SearchingForData.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharpAlgos\12SearchingForData\obj\Debug\net7.0\12SearchingForData.AssemblyInfoInputs.cache
+C:\projects\CSharpAlgos\12SearchingForData\obj\Debug\net7.0\12SearchingForData.AssemblyInfo.cs
+C:\projects\CSharpAlgos\12SearchingForData\obj\Debug\net7.0\12SearchingForData.csproj.CoreCompileInputs.cache
+C:\projects\CSharpAlgos\12SearchingForData\obj\Debug\net7.0\12SearchingForData.dll
+C:\projects\CSharpAlgos\12SearchingForData\obj\Debug\net7.0\refint\12SearchingForData.dll
+C:\projects\CSharpAlgos\12SearchingForData\obj\Debug\net7.0\12SearchingForData.pdb
+C:\projects\CSharpAlgos\12SearchingForData\obj\Debug\net7.0\12SearchingForData.genruntimeconfig.cache
+C:\projects\CSharpAlgos\12SearchingForData\obj\Debug\net7.0\ref\12SearchingForData.dll

@@ -1,0 +1,15 @@
+C:\projects\CSharpAlgos\9FileManagement\bin\Debug\net7.0\9FileManagement.exe
+C:\projects\CSharpAlgos\9FileManagement\bin\Debug\net7.0\9FileManagement.deps.json
+C:\projects\CSharpAlgos\9FileManagement\bin\Debug\net7.0\9FileManagement.runtimeconfig.json
+C:\projects\CSharpAlgos\9FileManagement\bin\Debug\net7.0\9FileManagement.dll
+C:\projects\CSharpAlgos\9FileManagement\bin\Debug\net7.0\9FileManagement.pdb
+C:\projects\CSharpAlgos\9FileManagement\obj\Debug\net7.0\9FileManagement.csproj.AssemblyReference.cache
+C:\projects\CSharpAlgos\9FileManagement\obj\Debug\net7.0\9FileManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharpAlgos\9FileManagement\obj\Debug\net7.0\9FileManagement.AssemblyInfoInputs.cache
+C:\projects\CSharpAlgos\9FileManagement\obj\Debug\net7.0\9FileManagement.AssemblyInfo.cs
+C:\projects\CSharpAlgos\9FileManagement\obj\Debug\net7.0\9FileManagement.csproj.CoreCompileInputs.cache
+C:\projects\CSharpAlgos\9FileManagement\obj\Debug\net7.0\9FileManagement.dll
+C:\projects\CSharpAlgos\9FileManagement\obj\Debug\net7.0\refint\9FileManagement.dll
+C:\projects\CSharpAlgos\9FileManagement\obj\Debug\net7.0\9FileManagement.pdb
+C:\projects\CSharpAlgos\9FileManagement\obj\Debug\net7.0\9FileManagement.genruntimeconfig.cache
+C:\projects\CSharpAlgos\9FileManagement\obj\Debug\net7.0\ref\9FileManagement.dll

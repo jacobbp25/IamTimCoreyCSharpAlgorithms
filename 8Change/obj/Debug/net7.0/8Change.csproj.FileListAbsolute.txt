@@ -1,0 +1,15 @@
+C:\projects\CSharpAlgos\8Change\bin\Debug\net7.0\8Change.exe
+C:\projects\CSharpAlgos\8Change\bin\Debug\net7.0\8Change.deps.json
+C:\projects\CSharpAlgos\8Change\bin\Debug\net7.0\8Change.runtimeconfig.json
+C:\projects\CSharpAlgos\8Change\bin\Debug\net7.0\8Change.dll
+C:\projects\CSharpAlgos\8Change\bin\Debug\net7.0\8Change.pdb
+C:\projects\CSharpAlgos\8Change\obj\Debug\net7.0\8Change.csproj.AssemblyReference.cache
+C:\projects\CSharpAlgos\8Change\obj\Debug\net7.0\8Change.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharpAlgos\8Change\obj\Debug\net7.0\8Change.AssemblyInfoInputs.cache
+C:\projects\CSharpAlgos\8Change\obj\Debug\net7.0\8Change.AssemblyInfo.cs
+C:\projects\CSharpAlgos\8Change\obj\Debug\net7.0\8Change.csproj.CoreCompileInputs.cache
+C:\projects\CSharpAlgos\8Change\obj\Debug\net7.0\8Change.dll
+C:\projects\CSharpAlgos\8Change\obj\Debug\net7.0\refint\8Change.dll
+C:\projects\CSharpAlgos\8Change\obj\Debug\net7.0\8Change.pdb
+C:\projects\CSharpAlgos\8Change\obj\Debug\net7.0\8Change.genruntimeconfig.cache
+C:\projects\CSharpAlgos\8Change\obj\Debug\net7.0\ref\8Change.dll

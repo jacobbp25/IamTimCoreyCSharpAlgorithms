@@ -1,0 +1,12 @@
+C:\Users\me\source\repos\ListModificationChallengeApp\ListModificationChallenge\bin\Debug\netcoreapp3.0\ListModificationChallenge.exe
+C:\Users\me\source\repos\ListModificationChallengeApp\ListModificationChallenge\bin\Debug\netcoreapp3.0\ListModificationChallenge.deps.json
+C:\Users\me\source\repos\ListModificationChallengeApp\ListModificationChallenge\bin\Debug\netcoreapp3.0\ListModificationChallenge.runtimeconfig.json
+C:\Users\me\source\repos\ListModificationChallengeApp\ListModificationChallenge\bin\Debug\netcoreapp3.0\ListModificationChallenge.runtimeconfig.dev.json
+C:\Users\me\source\repos\ListModificationChallengeApp\ListModificationChallenge\bin\Debug\netcoreapp3.0\ListModificationChallenge.dll
+C:\Users\me\source\repos\ListModificationChallengeApp\ListModificationChallenge\bin\Debug\netcoreapp3.0\ListModificationChallenge.pdb
+C:\Users\me\source\repos\ListModificationChallengeApp\ListModificationChallenge\obj\Debug\netcoreapp3.0\ListModificationChallenge.csprojAssemblyReference.cache
+C:\Users\me\source\repos\ListModificationChallengeApp\ListModificationChallenge\obj\Debug\netcoreapp3.0\ListModificationChallenge.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\ListModificationChallengeApp\ListModificationChallenge\obj\Debug\netcoreapp3.0\ListModificationChallenge.AssemblyInfoInputs.cache
+C:\Users\me\source\repos\ListModificationChallengeApp\ListModificationChallenge\obj\Debug\netcoreapp3.0\ListModificationChallenge.AssemblyInfo.cs
+C:\Users\me\source\repos\ListModificationChallengeApp\ListModificationChallenge\obj\Debug\netcoreapp3.0\ListModificationChallenge.dll
+C:\Users\me\source\repos\ListModificationChallengeApp\ListModificationChallenge\obj\Debug\netcoreapp3.0\ListModificationChallenge.pdb

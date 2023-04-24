@@ -1,0 +1,15 @@
+C:\projects\CSharpAlgos\3WordCountChallenge\bin\Debug\net7.0\3WordCountChallenge.exe
+C:\projects\CSharpAlgos\3WordCountChallenge\bin\Debug\net7.0\3WordCountChallenge.deps.json
+C:\projects\CSharpAlgos\3WordCountChallenge\bin\Debug\net7.0\3WordCountChallenge.runtimeconfig.json
+C:\projects\CSharpAlgos\3WordCountChallenge\bin\Debug\net7.0\3WordCountChallenge.dll
+C:\projects\CSharpAlgos\3WordCountChallenge\bin\Debug\net7.0\3WordCountChallenge.pdb
+C:\projects\CSharpAlgos\3WordCountChallenge\obj\Debug\net7.0\3WordCountChallenge.csproj.AssemblyReference.cache
+C:\projects\CSharpAlgos\3WordCountChallenge\obj\Debug\net7.0\3WordCountChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharpAlgos\3WordCountChallenge\obj\Debug\net7.0\3WordCountChallenge.AssemblyInfoInputs.cache
+C:\projects\CSharpAlgos\3WordCountChallenge\obj\Debug\net7.0\3WordCountChallenge.AssemblyInfo.cs
+C:\projects\CSharpAlgos\3WordCountChallenge\obj\Debug\net7.0\3WordCountChallenge.csproj.CoreCompileInputs.cache
+C:\projects\CSharpAlgos\3WordCountChallenge\obj\Debug\net7.0\3WordCountChallenge.dll
+C:\projects\CSharpAlgos\3WordCountChallenge\obj\Debug\net7.0\refint\3WordCountChallenge.dll
+C:\projects\CSharpAlgos\3WordCountChallenge\obj\Debug\net7.0\3WordCountChallenge.pdb
+C:\projects\CSharpAlgos\3WordCountChallenge\obj\Debug\net7.0\3WordCountChallenge.genruntimeconfig.cache
+C:\projects\CSharpAlgos\3WordCountChallenge\obj\Debug\net7.0\ref\3WordCountChallenge.dll

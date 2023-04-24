@@ -1,0 +1,15 @@
+C:\projects\CSharpAlgos\1PrimeNumbers\bin\Debug\net7.0\1PrimeNumbers.exe
+C:\projects\CSharpAlgos\1PrimeNumbers\bin\Debug\net7.0\1PrimeNumbers.deps.json
+C:\projects\CSharpAlgos\1PrimeNumbers\bin\Debug\net7.0\1PrimeNumbers.runtimeconfig.json
+C:\projects\CSharpAlgos\1PrimeNumbers\bin\Debug\net7.0\1PrimeNumbers.dll
+C:\projects\CSharpAlgos\1PrimeNumbers\bin\Debug\net7.0\1PrimeNumbers.pdb
+C:\projects\CSharpAlgos\1PrimeNumbers\obj\Debug\net7.0\1PrimeNumbers.csproj.AssemblyReference.cache
+C:\projects\CSharpAlgos\1PrimeNumbers\obj\Debug\net7.0\1PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharpAlgos\1PrimeNumbers\obj\Debug\net7.0\1PrimeNumbers.AssemblyInfoInputs.cache
+C:\projects\CSharpAlgos\1PrimeNumbers\obj\Debug\net7.0\1PrimeNumbers.AssemblyInfo.cs
+C:\projects\CSharpAlgos\1PrimeNumbers\obj\Debug\net7.0\1PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\projects\CSharpAlgos\1PrimeNumbers\obj\Debug\net7.0\1PrimeNumbers.dll
+C:\projects\CSharpAlgos\1PrimeNumbers\obj\Debug\net7.0\refint\1PrimeNumbers.dll
+C:\projects\CSharpAlgos\1PrimeNumbers\obj\Debug\net7.0\1PrimeNumbers.pdb
+C:\projects\CSharpAlgos\1PrimeNumbers\obj\Debug\net7.0\1PrimeNumbers.genruntimeconfig.cache
+C:\projects\CSharpAlgos\1PrimeNumbers\obj\Debug\net7.0\ref\1PrimeNumbers.dll

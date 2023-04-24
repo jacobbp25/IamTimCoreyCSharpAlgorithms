@@ -1,0 +1,14 @@
+C:\projects\CSharpAlgos\15SampleData\SampleDataBll\bin\Debug\net7.0\SampleDataBll.deps.json
+C:\projects\CSharpAlgos\15SampleData\SampleDataBll\bin\Debug\net7.0\SampleDataBll.dll
+C:\projects\CSharpAlgos\15SampleData\SampleDataBll\bin\Debug\net7.0\SampleDataBll.pdb
+C:\projects\CSharpAlgos\15SampleData\SampleDataBll\obj\Debug\net7.0\SampleDataBll.csproj.AssemblyReference.cache
+C:\projects\CSharpAlgos\15SampleData\SampleDataBll\obj\Debug\net7.0\SampleDataBll.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharpAlgos\15SampleData\SampleDataBll\obj\Debug\net7.0\SampleDataBll.AssemblyInfoInputs.cache
+C:\projects\CSharpAlgos\15SampleData\SampleDataBll\obj\Debug\net7.0\SampleDataBll.AssemblyInfo.cs
+C:\projects\CSharpAlgos\15SampleData\SampleDataBll\obj\Debug\net7.0\SampleDataBll.csproj.CoreCompileInputs.cache
+C:\projects\CSharpAlgos\15SampleData\SampleDataBll\obj\Debug\net7.0\SampleDataBll.dll
+C:\projects\CSharpAlgos\15SampleData\SampleDataBll\obj\Debug\net7.0\refint\SampleDataBll.dll
+C:\projects\CSharpAlgos\15SampleData\SampleDataBll\obj\Debug\net7.0\SampleDataBll.pdb
+C:\projects\CSharpAlgos\15SampleData\SampleDataBll\obj\Debug\net7.0\ref\SampleDataBll.dll
+C:\projects\CSharpAlgos\15SampleData\SampleDataBll\bin\Debug\net7.0\first.txt
+C:\projects\CSharpAlgos\15SampleData\SampleDataBll\bin\Debug\net7.0\last.txt

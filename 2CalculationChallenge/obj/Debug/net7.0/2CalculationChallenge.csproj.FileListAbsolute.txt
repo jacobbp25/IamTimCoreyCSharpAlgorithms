@@ -1,0 +1,15 @@
+C:\projects\CSharpAlgos\2CalculationChallenge\bin\Debug\net7.0\2CalculationChallenge.exe
+C:\projects\CSharpAlgos\2CalculationChallenge\bin\Debug\net7.0\2CalculationChallenge.deps.json
+C:\projects\CSharpAlgos\2CalculationChallenge\bin\Debug\net7.0\2CalculationChallenge.runtimeconfig.json
+C:\projects\CSharpAlgos\2CalculationChallenge\bin\Debug\net7.0\2CalculationChallenge.dll
+C:\projects\CSharpAlgos\2CalculationChallenge\bin\Debug\net7.0\2CalculationChallenge.pdb
+C:\projects\CSharpAlgos\2CalculationChallenge\obj\Debug\net7.0\2CalculationChallenge.csproj.AssemblyReference.cache
+C:\projects\CSharpAlgos\2CalculationChallenge\obj\Debug\net7.0\2CalculationChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharpAlgos\2CalculationChallenge\obj\Debug\net7.0\2CalculationChallenge.AssemblyInfoInputs.cache
+C:\projects\CSharpAlgos\2CalculationChallenge\obj\Debug\net7.0\2CalculationChallenge.AssemblyInfo.cs
+C:\projects\CSharpAlgos\2CalculationChallenge\obj\Debug\net7.0\2CalculationChallenge.csproj.CoreCompileInputs.cache
+C:\projects\CSharpAlgos\2CalculationChallenge\obj\Debug\net7.0\2CalculationChallenge.dll
+C:\projects\CSharpAlgos\2CalculationChallenge\obj\Debug\net7.0\refint\2CalculationChallenge.dll
+C:\projects\CSharpAlgos\2CalculationChallenge\obj\Debug\net7.0\2CalculationChallenge.pdb
+C:\projects\CSharpAlgos\2CalculationChallenge\obj\Debug\net7.0\2CalculationChallenge.genruntimeconfig.cache
+C:\projects\CSharpAlgos\2CalculationChallenge\obj\Debug\net7.0\ref\2CalculationChallenge.dll

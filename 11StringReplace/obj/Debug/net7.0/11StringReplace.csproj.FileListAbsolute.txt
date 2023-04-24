@@ -1,0 +1,15 @@
+C:\projects\CSharpAlgos\11StringReplace\bin\Debug\net7.0\11StringReplace.exe
+C:\projects\CSharpAlgos\11StringReplace\bin\Debug\net7.0\11StringReplace.deps.json
+C:\projects\CSharpAlgos\11StringReplace\bin\Debug\net7.0\11StringReplace.runtimeconfig.json
+C:\projects\CSharpAlgos\11StringReplace\bin\Debug\net7.0\11StringReplace.dll
+C:\projects\CSharpAlgos\11StringReplace\bin\Debug\net7.0\11StringReplace.pdb
+C:\projects\CSharpAlgos\11StringReplace\obj\Debug\net7.0\11StringReplace.csproj.AssemblyReference.cache
+C:\projects\CSharpAlgos\11StringReplace\obj\Debug\net7.0\11StringReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharpAlgos\11StringReplace\obj\Debug\net7.0\11StringReplace.AssemblyInfoInputs.cache
+C:\projects\CSharpAlgos\11StringReplace\obj\Debug\net7.0\11StringReplace.AssemblyInfo.cs
+C:\projects\CSharpAlgos\11StringReplace\obj\Debug\net7.0\11StringReplace.csproj.CoreCompileInputs.cache
+C:\projects\CSharpAlgos\11StringReplace\obj\Debug\net7.0\11StringReplace.dll
+C:\projects\CSharpAlgos\11StringReplace\obj\Debug\net7.0\refint\11StringReplace.dll
+C:\projects\CSharpAlgos\11StringReplace\obj\Debug\net7.0\11StringReplace.pdb
+C:\projects\CSharpAlgos\11StringReplace\obj\Debug\net7.0\11StringReplace.genruntimeconfig.cache
+C:\projects\CSharpAlgos\11StringReplace\obj\Debug\net7.0\ref\11StringReplace.dll

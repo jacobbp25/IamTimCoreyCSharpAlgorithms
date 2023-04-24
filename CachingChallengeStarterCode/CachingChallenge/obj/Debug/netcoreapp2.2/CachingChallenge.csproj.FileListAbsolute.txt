@@ -1,0 +1,11 @@
+C:\Users\me\source\repos\CachingChallengeApp\CachingChallenge\obj\Debug\netcoreapp2.2\CachingChallenge.csprojAssemblyReference.cache
+C:\Users\me\source\repos\CachingChallengeApp\CachingChallenge\obj\Debug\netcoreapp2.2\CachingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\CachingChallengeApp\CachingChallenge\obj\Debug\netcoreapp2.2\CachingChallenge.AssemblyInfoInputs.cache
+C:\Users\me\source\repos\CachingChallengeApp\CachingChallenge\obj\Debug\netcoreapp2.2\CachingChallenge.AssemblyInfo.cs
+C:\Users\me\source\repos\CachingChallengeApp\CachingChallenge\bin\Debug\netcoreapp2.2\CachingChallenge.deps.json
+C:\Users\me\source\repos\CachingChallengeApp\CachingChallenge\bin\Debug\netcoreapp2.2\CachingChallenge.runtimeconfig.json
+C:\Users\me\source\repos\CachingChallengeApp\CachingChallenge\bin\Debug\netcoreapp2.2\CachingChallenge.runtimeconfig.dev.json
+C:\Users\me\source\repos\CachingChallengeApp\CachingChallenge\bin\Debug\netcoreapp2.2\CachingChallenge.dll
+C:\Users\me\source\repos\CachingChallengeApp\CachingChallenge\bin\Debug\netcoreapp2.2\CachingChallenge.pdb
+C:\Users\me\source\repos\CachingChallengeApp\CachingChallenge\obj\Debug\netcoreapp2.2\CachingChallenge.dll
+C:\Users\me\source\repos\CachingChallengeApp\CachingChallenge\obj\Debug\netcoreapp2.2\CachingChallenge.pdb
