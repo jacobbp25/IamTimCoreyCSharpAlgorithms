@@ -26,7 +26,7 @@ var rules = new List<DivisibleRuleInfo>(){
     new DivisibleRuleInfo("Fizz",new [] {3})
 };
 
-ReusableRefactor(rules, -3, 105).ForEach(x => System.Console.WriteLine(x));
+ReusableRefactor(rules, -105, 105).ForEach(x => System.Console.WriteLine(x));
 
 static void MyOriginalSolution()
 {
